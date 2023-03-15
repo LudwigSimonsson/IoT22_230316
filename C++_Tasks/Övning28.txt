@@ -1,0 +1,8 @@
+Visa siffror av ett tal
+Skriv en loop för att visa siffrorna av ett givet tal i omvänd ordning
+
+funktion Digits(int n)
+
+utdata
+
+cout << digit << " "

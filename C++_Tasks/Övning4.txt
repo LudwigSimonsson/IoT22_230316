@@ -1,0 +1,10 @@
+Beräkna avstånd
+Skriv ett uttryck för att beräkna avstånd
+
+parametrar är
+
+u -- begynnelsehastighet
+
+v -- slutgiltig hastighet
+
+a -- acceleration

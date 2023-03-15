@@ -1,0 +1,10 @@
+Beräkna volymen av en cylinder
+Skriv ett uttryck för att beräkna volymen av en cylinder
+
+parametrar
+
+radie -- cylinderns radie
+
+höjd -- cylinderns höjd
+
+anta pi = 3,14

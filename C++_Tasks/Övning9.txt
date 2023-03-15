@@ -1,0 +1,10 @@
+Talet är positivt eller negativt
+Avgör om ett givet tal är positivt eller negativt
+
+Parameter
+
+n - ett heltal
+
+Utdata
+
+cout << "positive" eller cout << "negative"

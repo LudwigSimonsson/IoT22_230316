@@ -1,0 +1,16 @@
+Aritmetiska operationer med hjälp av switch
+Skriv switch-case för att utföra aritmetiska operationer
+
+funktion ArithOpt(int x, int y, int choice)
+
+x och y är 2 värden
+
+val
+
+1 -- Addera 2 tal
+
+2 -- Subtrahera 2 tal
+
+3 -- Multiplicera 2 tal
+
+4 -- Dividera 2 tal

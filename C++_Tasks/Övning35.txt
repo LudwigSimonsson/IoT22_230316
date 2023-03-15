@@ -1,0 +1,2 @@
+Hitta det minsta elementet i en array
+Skriv en loop för att hitta det minsta elementet från en array.

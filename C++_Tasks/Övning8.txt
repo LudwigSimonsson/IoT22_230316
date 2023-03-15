@@ -1,0 +1,12 @@
+Största av 2 tal
+Skriv ett villkorsuttryck för att hitta det största av två tal
+
+Parametrar
+
+x och y är 2 tal
+
+Förväntad utgång: skriv ut det största talet, skriv bara ut ett tal
+
+exempel
+
+cout << x; eller cout << y;

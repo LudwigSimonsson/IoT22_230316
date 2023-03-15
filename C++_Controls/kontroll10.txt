@@ -1,0 +1,1 @@
+10. Skriv ett program som nyttjar inheritance för att redovisa info om en anställd

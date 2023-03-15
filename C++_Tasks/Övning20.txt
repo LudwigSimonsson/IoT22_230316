@@ -1,0 +1,24 @@
+Visa siffror i ord
+Visa angiven siffra i ord
+
+funktion DigitToWord(int d)
+
+1 -- ett
+
+2 -- två
+
+3 -- tre
+
+4 -- fyra
+
+5 -- fem
+
+6 -- sex
+
+7 -- sju
+
+8 -- åtta
+
+9 -- nio
+
+0 -- noll

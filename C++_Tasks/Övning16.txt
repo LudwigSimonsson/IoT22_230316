@@ -1,0 +1,23 @@
+Visa betyg för studenternas poäng
+Skriv nästlade villkor för att kontrollera genomsnittspoäng och visa betyg
+
+denna kodningsövning är baserad på föregående video *
+Beräkna genomsnitt (Avg)
+
+om Avg >= 60 skriv ut betyg 'A'
+
+om 35 <= Avg < 60 skriv ut betyg 'B'
+
+om Avg < 35 skriv ut betyg 'C'
+
+funktion Grades(int m1, int m2, int m3)
+
+parametrar är poäng i 3 ämnen
+
+utdata
+
+cout << 'A'
+
+cout << 'B'
+
+cout << 'C'

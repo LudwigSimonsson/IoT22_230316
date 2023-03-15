@@ -1,0 +1,12 @@
+Rita en nedre triangel av *
+Rita ett mönster av * för de givna dimensionerna nedan
+
+*
+
+* *
+
+* * *
+
+* * * *
+
+* * * * *

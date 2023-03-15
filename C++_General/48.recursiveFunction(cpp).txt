@@ -1,0 +1,19 @@
+# include<iostream>
+using namespace std;
+    
+/*program for recursive function
+
+*/
+void fun(int n)
+{
+	if(n>0)
+	{
+	       	cout<<n<<endl;
+		fun(n-1);
+	}
+}
+int main()
+{
+	int=5;
+	fun(x);
+}

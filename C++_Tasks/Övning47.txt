@@ -1,0 +1,10 @@
+Funktionsöverlagring för minsta av tal
+Skriv överlagrade funktioner för att hitta minsta av tal.
+
+Implementera följande funktioner
+
+Minsta av 2 heltal
+
+Minsta av 3 heltal
+
+Minsta av 2 flyttal

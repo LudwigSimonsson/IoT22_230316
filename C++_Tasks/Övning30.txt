@@ -1,0 +1,8 @@
+Vända ett tal
+Skriv en loop för att vända siffrorna i ett tal
+
+funktion Reverse(int n)
+
+utdata
+
+cout << rev

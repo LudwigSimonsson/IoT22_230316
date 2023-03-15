@@ -1,0 +1,12 @@
+Summa av alla element i en array
+Hitta summan av alla element i en array
+
+funktion Sum()
+
+A -- Array med element
+
+n -- antal element
+
+utdata
+
+cout << sum;

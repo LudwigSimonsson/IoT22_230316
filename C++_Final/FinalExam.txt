@@ -1,0 +1,20 @@
+Er slutuppgift är att att konstruera en terminalbaserad bankomat som har följande funktionalitet:
+
+När programmet startas så skall användaren bemötas utav följande alternativ;
+
+***Bank-System***
+ 
+    Öppna ett konto (Här får användaren registrera för och efternamn samt ett startsaldo och tilldelas sedan ett kontonummer)
+    Se saldo (Här kan användaren logga in med kontonummer och då se saldo)
+    Sätt in pengar (Här får användaren ange vad denna skal sätta in och får då se saldo både innan och efter)
+    Ta ut pengar (Här tar användaren ut pengar och får se saldo både innan och efter)
+    Avsluta konto (Detta låter användaren avregisterar sig)
+    Visa alla konton (Här kan vi se alla användare/konton)
+    Avsluta (Detta stänger appen)
+
+Bortsett ifrån dessa krav så skall ni även:
+- Använda er av fstream
+- Använda er av vector
+- Använda er av map
+
+Sista kravet är även att applikationen skall minnas användarna med hjälp av lokala filer även om terminalen startas om.

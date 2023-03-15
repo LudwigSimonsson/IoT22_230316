@@ -1,0 +1,11 @@
+Skriv ett uttryck för att hitta avståndet mellan två punkter
+
+parametrar
+
+x1, y1 -- första punkten
+
+x2, y2 -- andra punkten
+
+Skriv bara formeln vid raden
+
+dist=

@@ -1,0 +1,1 @@
+2. Skriv ett program som beräknar nettolönen (efter skatt)

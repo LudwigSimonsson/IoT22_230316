@@ -1,0 +1,12 @@
+Kontrollera om ett tal är ett palindrom
+Skriv en loop för att vända ett tal och sedan kontrollera om det är ett palindrom
+
+PALINDROM -- omvändningen av ett tal är lika med talet
+
+funktion Palindrome(int n)
+
+utdata
+
+cout << "palindrome";
+
+cout << "not a palindrome";

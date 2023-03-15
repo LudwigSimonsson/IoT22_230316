@@ -1,0 +1,10 @@
+Funktionsöverlagring för summa av tal
+Skriv 3 överlagrade funktioner för
+
+Summa av 2 heltal
+
+Summa av 2 flyttal
+
+Summa av 3 heltal
+
+Main anropar 3 funktioner, implementera alla 3 funktioner

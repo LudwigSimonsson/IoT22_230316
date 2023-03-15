@@ -1,0 +1,18 @@
+Visa namnet på en dag
+Visa dagens namn för ett givet dagnummer
+
+funktion DayName(int day)
+
+1 -- sön
+
+2 -- mån
+
+3 -- tis
+
+4 -- ons
+
+5 -- tor
+
+6 -- fre
+
+7 -- lör

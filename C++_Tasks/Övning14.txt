@@ -1,0 +1,10 @@
+Hitta största av 3 tal
+Skriv nästlade if-villkor för att hitta det största av tre tal
+
+parametrar för Max3(int a, int b, int c)
+
+a, b och c är 3 tal
+
+utdata
+
+skriv ut det största talet

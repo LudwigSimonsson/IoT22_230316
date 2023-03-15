@@ -1,0 +1,19 @@
+1 -- sön
+
+2 -- mån
+
+3 -- tis
+
+4 -- ons
+
+5 -- tor
+
+6 -- fre
+
+7 -- lör
+
+funktion DayName(int day)
+
+day -- dagnummer
+
+utdata

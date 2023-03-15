@@ -1,0 +1,6 @@
+Funktion för att hitta största av 3 tal
+Skriv en funktion för att hitta det största av 3 tal.
+
+Main anropar en funktion Max(7, 10, 5) och du måste implementera Max()-funktionen
+
+Funktionen ska returnera det största av 3 tal

@@ -1,0 +1,16 @@
+Kontrollera ålder på en person
+Skriv villkorsuttryck för att kontrollera ålder och visa ett meddelande
+
+parameter för CheckAge(int age)
+
+age -- personens ålder
+
+ung - om åldern är större än eller lika med 12 och mindre än eller lika med 50
+
+annars inte ung
+
+utdata
+
+cout << "young"
+
+cout << "not young"

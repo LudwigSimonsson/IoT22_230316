@@ -1,0 +1,2 @@
+Visa alla element med hjälp av For Each-loop
+Visa alla element i en array med hjälp av foreach-loop. Visa nummer med mellanslag.

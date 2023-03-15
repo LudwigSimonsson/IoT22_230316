@@ -1,0 +1,1 @@
+8. Skriv ett program med classen student som innehåller namn och betyg

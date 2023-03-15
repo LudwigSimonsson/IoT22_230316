@@ -1,0 +1,10 @@
+Beräkna enkel ränta
+Skriv ett uttryck för att beräkna enkel ränta
+
+parametrar är
+
+P -- huvudbelopp
+
+T -- tid
+
+R -- räntesats

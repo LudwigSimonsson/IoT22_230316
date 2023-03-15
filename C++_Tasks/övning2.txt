@@ -1,0 +1,6 @@
+Summa av de första n naturliga talen
+Skriv ett uttryck för att hitta summan av de första n naturliga talen
+
+Skriv bara formeln vid raden
+
+summa=

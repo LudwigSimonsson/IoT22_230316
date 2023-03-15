@@ -1,0 +1,8 @@
+Hitta fakulteten för ett tal
+Skriv en loop för att hitta fakulteten av ett tal
+
+funktion Factorial(int n)
+
+utdata
+
+cout << fact

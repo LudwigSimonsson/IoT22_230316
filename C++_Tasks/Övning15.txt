@@ -1,0 +1,23 @@
+Karaktären på kvadratiska rötter
+Skriv nästlade if-satser för att skriva ut karaktären på rötterna för en kvadratisk ekvation samt själva rötterna
+
+denna kodningsövning är baserad på föregående video *
+beräkna diskriminanten
+
+d = b^2 - 4ac
+
+om d = 0 då är rötterna reella och lika
+
+om d > 0 är rötterna reella men olika
+
+om d < 0 då är rötterna imaginära
+
+funktion Roots(float a, float b, float c)
+
+utdata
+
+cout << "reella och lika " << r1;
+
+cout << "reella och olika " << r1 << " " << r2;
+
+cout << "imaginära";

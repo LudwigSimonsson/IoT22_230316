@@ -1,0 +1,14 @@
+Kontrollera om ett tal är ett primtal
+Skriv en loop för att räkna faktorer för ett tal
+
+kontrollera om ett tal är ett primtal
+
+PRIMTAL -- ett tal som har faktorerna 1 och sig självt, det kommer endast att ha 2 faktorer
+
+funktion Prime(int n)
+
+utdata
+
+cout << "prime"
+
+cout << "not prime"

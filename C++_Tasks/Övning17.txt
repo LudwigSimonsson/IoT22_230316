@@ -1,0 +1,14 @@
+Beräkna rabatterad fakturabelopp
+Beräkna rabatterad fakturabelopp
+
+funktion Discount(float amount)
+
+om beloppet >= 5000 erbjud 20% rabatt
+
+om 2000 <= belopp < 5000 erbjud 10% rabatt
+
+om beloppet < 2000 erbjud 5% rabatt
+
+utdata
+
+skriv ut rabatterat belopp, dvs. fakturabelopp efter rabatt

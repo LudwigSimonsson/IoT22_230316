@@ -1,0 +1,6 @@
+Funktion för att beräkna m upphöjt till n.
+Skriv en funktion för att beräkna m upphöjt till n.
+
+Main anropar en funktion pow(2, 5) och du måste implementera pow(m, n)-funktionen
+
+Funktionen ska returnera resultatet

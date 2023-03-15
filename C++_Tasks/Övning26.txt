@@ -1,0 +1,12 @@
+Kontrollera om ett tal är ett perfekt tal
+Skriv en loop för att kontrollera om ett tal är ett perfekt tal
+
+PERFEKT TAL - summan av faktorerna för talet är det dubbla av talet
+
+funktion Perfect(int n)
+
+utdata
+
+cout << "perfect"
+
+cout << "not perfect"

@@ -1,0 +1,14 @@
+Kontrollera om en person är berättigad till erbjudande
+Skriv villkorsuttryck för att kontrollera om en person är berättigad till erbjudande
+
+parametrar för Eligible(int age)
+
+age -- personens ålder
+
+om åldern är mindre än 12 eller större än 50
+
+cout << "eligible"
+
+annars
+
+cout << "not eligible"

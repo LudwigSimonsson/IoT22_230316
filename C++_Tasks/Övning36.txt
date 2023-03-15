@@ -1,0 +1,2 @@
+Räkna antalet negativa och positiva tal i en array
+Skriv en loop för att räkna antalet positiva och negativa tal separat i en array.

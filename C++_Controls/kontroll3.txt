@@ -1,0 +1,1 @@
+3. Skriv ett program som tar en summa och en rabatt och beräknar totalen

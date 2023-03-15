@@ -1,0 +1,14 @@
+Kontrollera om arbetstid
+Skriv villkor för att kontrollera om given tid är arbetstid eller inte
+
+villkor
+
+om timmen är mellan 9 och 18 är det arbetstid
+
+annars fritid
+
+utdata
+
+cout << "working"
+
+cout << "leisure"

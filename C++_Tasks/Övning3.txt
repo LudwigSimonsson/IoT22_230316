@@ -1,0 +1,6 @@
+Hitta rötterna för en kvadratisk ekvation
+Skriv ett uttryck för att hitta en positiv rot av en kvadratisk ekvation
+
+Skriv endast en positiv formel vid raden
+
+rot1=

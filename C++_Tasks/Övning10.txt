@@ -1,0 +1,14 @@
+Kontrollera om talet är udda eller jämnt
+Skriv ett villkorsuttryck för att kontrollera om ett tal är udda eller jämnt
+
+funktion OddEven tar parameter
+
+parameter
+
+n - ett heltal
+
+Utdata
+
+cout << "odd"
+
+cout << "even"

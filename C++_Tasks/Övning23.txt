@@ -1,0 +1,8 @@
+Summa av de första N naturliga talen
+Skriv en loop för att hitta summan av de första n naturliga talen
+
+funktion SumOfN(int n)
+
+utdata
+
+cout << sum

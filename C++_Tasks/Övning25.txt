@@ -1,0 +1,8 @@
+Hitta faktorer för ett tal
+Skriv en loop för att skriva ut faktorerna för ett givet tal
+
+funktion Factors(int n)
+
+utdata
+
+cout << i << " "

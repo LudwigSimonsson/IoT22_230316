@@ -1,0 +1,6 @@
+Område för en triangel
+Givet program är för att hitta arean av en triangel
+
+Programmet har redan variabler deklarerade och initialiserade
+
+Hitta arean av en triangel som flyttal genom typomvandling

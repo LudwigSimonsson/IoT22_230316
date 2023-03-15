@@ -1,0 +1,14 @@
+Rita en övre triangel av *
+Rita ett mönster av * för de givna dimensionerna nedan
+
+
+
+* * * * *
+
+  * * * *
+
+    * * *
+
+      * *
+
+        *

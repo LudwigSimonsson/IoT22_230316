@@ -1,0 +1,1 @@
+6. Skriv ett program som beräknar genomsnittet av en samling tal

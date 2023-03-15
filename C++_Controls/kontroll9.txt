@@ -1,0 +1,1 @@
+9. Skriv ett program som kollar om talet är ett rational number

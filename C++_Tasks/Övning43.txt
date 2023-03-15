@@ -1,0 +1,6 @@
+Funktion för att addera 2 tal
+Skriv en funktion för att addera 2 tal.
+
+Du måste skriva en komplett funktion som förklarat på whiteboard.
+
+Main anropar en funktion add(10, 5) och du måste implementera add()-funktionen

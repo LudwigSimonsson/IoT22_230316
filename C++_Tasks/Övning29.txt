@@ -1,0 +1,12 @@
+Kontrollera om ett tal är ett Armstrong-tal
+Skriv en loop för att hitta summan av kuber av siffrorna i ett tal och kontrollera om det är ett Armstrong-tal
+
+funktion Armstrong(int n)
+
+ARMSTRONG-TAL - om summan av kuber av siffrorna i ett tal är lika med talet
+
+utdata
+
+cout << "armstrong"
+
+cout << "not a armstrong"
