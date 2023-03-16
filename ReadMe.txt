@@ -18,3 +18,8 @@ Om samtliga av dessa 59 uppgifter hinns med så kan man vidaregå till C++_Final
 Om även denna utmaning skulle hinnas med, skall man sedan studera C&C++_ADS där man finner ett hav av exempel på algoritmer och datastrukturer som är relevanta för utbildningen
 
 LYCKA TILL!
+
+P.S, är man för obekväm med ovan insats skall man istället fokusera på;
+https://www.geeksforgeeks.org/cpp-tutorial/amp/
+Eller;
+https://www.tutorialspoint.com/cplusplus/index.htm
